@@ -1,0 +1,210 @@
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 390px;
+  height: 168px;
+  background-image: linear-gradient(90deg, #080f0fff 0%, #070d0d00 100%),
+    /* webpackIgnore: true */ url('assets/rectangle1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto, cover;
+}
+.ellipse1 {
+  position: absolute;
+  left: 31px;
+  top: 24px;
+  width: 33px;
+  height: 33px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.ellipse2 {
+  position: absolute;
+  left: 56px;
+  top: 34px;
+  width: 23px;
+  height: 23px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse4 {
+  position: absolute;
+  left: 44px;
+  top: 47px;
+  width: 20px;
+  height: 20px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.metaballShape1 {
+  position: absolute;
+  left: 51.1619px;
+  top: 41.9395px;
+  width: 18.1148px;
+  height: 19.3869px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.metaballShape2 {
+  position: absolute;
+  left: 39.3476px;
+  top: 45.4308px;
+  width: 23.8984px;
+  height: 15.0598px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.metaballShape3 {
+  position: absolute;
+  left: 53.4284px;
+  top: 29.7032px;
+  width: 14.5895px;
+  height: 26.195px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+._2023113RemovebgPreview1 {
+  position: absolute;
+  left: 23px;
+  top: 24px;
+  width: 146px;
+  height: 71px;
+  background-image:/* webpackIgnore: true */ url('assets/_2023113RemovebgPreview1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame2 {
+  position: absolute;
+  left: 125px;
+  top: 13px;
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 10px;
+}
+.aPropos {
+  color: #bdb4b4;
+  font-size: 11px;
+  font-family: Saira Condensed, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-decoration: underline;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.menu {
+  color: #bdb4b4;
+  font-size: 10px;
+  font-family: Saira Condensed, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-decoration: underline;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.gallerie {
+  color: #bdb4b4;
+  font-size: 10px;
+  font-family: Saira Condensed, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-decoration: underline;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.contract {
+  color: #bdb4b4;
+  font-size: 10px;
+  font-family: Saira Condensed, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-decoration: underline;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.venezDegusterNosSushi {
+  color: #bdb4b4;
+  font-size: 20px;
+  font-family: Saira Condensed, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 15px;
+  top: 80px;
+  width: 218px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle2 {
+  position: absolute;
+  left: 43px;
+  top: 124px;
+  width: 99px;
+  height: 26px;
+  border-radius: 20px;
+  background-color: #fd7d3e;
+}
+.commander {
+  color: #fff;
+  font-size: 11px;
+  font-family: Saira Condensed, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 54px;
+  top: 131px;
+  width: 63px;
+  height: 14px;
+  text-align: end;
+  align-items: end;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+.rectangle3 {
+  position: absolute;
+  left: 0;
+  top: 168px;
+  width: 390px;
+  height: 168px;
+  background-color: #0003, #bdb4b4;
+}
